@@ -1,18 +1,13 @@
-### 我的博客
+# Make 2048
+A Udacity version of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/). 
 
-地址：[http://yansu.org](http://yansu.org)
+The original version is a small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
-### 安装说明
+### Notes for the Udacity version
+We're using this version as the recommended fork to avoid potential learning issues as the original source changes (and the Udacity videos don't update). You can [fork the original repo as well](https://github.com/gabrielecirulli/2048)
 
-1. fork库到自己的github
-2. 修改名字为：`username.github.io`
-3. clone库到本地，参考`_posts`中的目录结构自己创建适合自己的文章目录结构
-4. 修改CNAME，或者删掉这个文件，使用默认域名
-5. 修改`_config.yml`配置项
-6. It's done!
+## License
+2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
 
-### 分支说明
-
-- 三栏布局（master分支，基于[3-Jekyll](https://github.com/P233/3-Jekyll)）
-- 三栏布局 (bootstrap-based分支，基于Bootstrap)
-- 单栏布局（first-ui分支，基于Bootstrap）
+## Donations
+Gabriele made this in his spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying him coffee, you can donate at his BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`.
